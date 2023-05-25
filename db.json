@@ -1,3 +1,20 @@
 {
-  "Books": []
+  "Books": [
+    {
+      "title": "New book",
+      "id": 1
+    },
+    {
+      "title": "another book",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "id": 4
+    }
+  ]
 }
